@@ -1,0 +1,1 @@
+UPDATE users set {} where id=%(id)s

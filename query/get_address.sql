@@ -1,0 +1,1 @@
+SELECT id,user_id,line1,line2,city,zipcode,country FROM address where user_id = %(id)s;
